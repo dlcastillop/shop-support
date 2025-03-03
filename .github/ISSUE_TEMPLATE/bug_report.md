@@ -1,14 +1,13 @@
 ---
 name: Bug report
-about: Report a mistake or bug you've found in an item from Daniel Castillo's Patreon
-  store
-title: ''
-labels: ''
-assignees: ''
-
+about: Report a mistake or bug you've found in an item from Daniel Castillo's Patreon store
+title: ""
+labels: ""
+assignees: ""
 ---
 
 **What store item**
+
 - Item name:
 
 **Describe the bug**
@@ -16,6 +15,7 @@ A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
+
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
