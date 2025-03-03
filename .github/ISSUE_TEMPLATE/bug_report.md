@@ -1,12 +1,12 @@
 ---
 name: Bug report
-about: Report a mistake or bug you've found in an item from Daniel Castillo's Patreon store
+about: Report a mistake or bug you've found in an item from Daniel Castillo's Patreon shop
 title: ""
 labels: ""
 assignees: ""
 ---
 
-**What store item**
+**What shop item**
 
 - Item name:
 
